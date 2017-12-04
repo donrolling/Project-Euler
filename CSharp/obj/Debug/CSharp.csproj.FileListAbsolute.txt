@@ -18,3 +18,14 @@ C:\Users\Don\SkyDrive\Projects\ProjectEuler\CSharp\bin\Debug\Files\Problem67.txt
 C:\Users\drolling\SkyDrive\Projects\ProjectEuler\CSharp\bin\Debug\Files\Problem22.txt
 C:\Users\drolling\SkyDrive\Projects\ProjectEuler\CSharp\bin\Debug\Files\Problem67.txt
 C:\Users\Don\SkyDrive\Projects\ProjectEuler\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Projects\Project-Euler\CSharp\bin\Debug\Files\Problem22.txt
+C:\Projects\Project-Euler\CSharp\bin\Debug\Files\Problem67.txt
+C:\Projects\Project-Euler\CSharp\bin\Debug\CSharp.exe.config
+C:\Projects\Project-Euler\CSharp\bin\Debug\CSharp.exe
+C:\Projects\Project-Euler\CSharp\bin\Debug\CSharp.pdb
+C:\Projects\Project-Euler\CSharp\bin\Debug\IntXLib.dll
+C:\Projects\Project-Euler\CSharp\bin\Debug\IntXLib.xml
+C:\Projects\Project-Euler\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Projects\Project-Euler\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Projects\Project-Euler\CSharp\obj\Debug\CSharp.exe
+C:\Projects\Project-Euler\CSharp\obj\Debug\CSharp.pdb

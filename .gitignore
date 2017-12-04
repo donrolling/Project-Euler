@@ -34,3 +34,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+*.lock
+/.vs/ProjectEuler/v15/Server/sqlite3/storage.ide-wal
+/.vs/ProjectEuler/v15/Server/sqlite3/storage.ide-shm
+/.vs/ProjectEuler/v15/Server/sqlite3/storage.ide
